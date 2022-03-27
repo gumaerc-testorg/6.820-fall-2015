@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c8e79311-c9b5-4421-6e30-eec14748516b
 resourcetype: Other
 title: Coq Examples, Lecture 5
 uid: 60418b8d-1f9c-b388-56f8-61ce0ccb27a3
