@@ -5,6 +5,7 @@ file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/60418b8d1f9cb388
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Coq Examples, Lecture 5
 uid: 60418b8d-1f9c-b388-56f8-61ce0ccb27a3
 ---
 This is a file that contains examples regarding Introduction to Coq.
-

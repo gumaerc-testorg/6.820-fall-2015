@@ -5,6 +5,7 @@ file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/4036574ebade2f52
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4Code.zip
 uid: 4036574e-bade-2f52-8f49-2363f22c0e53
 ---
 This is a supporting file of pset4.
-

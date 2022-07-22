@@ -5,6 +5,7 @@ file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/df963fb196fdadf0
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset5.zip
 uid: df963fb1-96fd-adf0-72bc-231b557b3c26
 ---
 This is a supporting file of pset5.
-
