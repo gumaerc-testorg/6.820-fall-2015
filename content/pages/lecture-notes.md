@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and the full set
+  of lecture notes for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c8e79311-c9b5-4421-6e30-eec14748516b
 ---
@@ -28,7 +33,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Functional Programming and Types (PDF - 2.8MB)]({{< baseurl >}}/resources/mit6_820f15_l01)
+{{% resource_link 20d2266e-d572-d810-f012-863abb6537bb "Introduction to Functional Programming and Types (PDF - 2.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +42,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lambda Calculus (PDF)]({{< baseurl >}}/resources/mit6_820f15_l02)
+{{% resource_link 9d3d9701-3c4c-d797-460f-568ca14702e0 "Lambda Calculus (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Big-Step vs. Small-Step Semantics and the λLet Calculus (PDF)]({{< baseurl >}}/resources/mit6_820f15_l03)
+{{% resource_link c3d8f117-17a7-d499-cfdb-d6acbcfe09b8 "Big-Step vs. Small-Step Semantics and the λLet Calculus (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +60,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Coq Crash Course (Examples in Operational Semantics) (PDF)]({{< baseurl >}}/resources/mit6_820f15_l04)
+{{% resource_link 52b32411-4c21-1ad7-e93f-d14da38f6720 "Coq Crash Course (Examples in Operational Semantics) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,8 +75,8 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Simple Types (PDF)]({{< baseurl >}}/resources/mit6_820f15_l05)  
-[Coq Examples (V)]({{< baseurl >}}/resources/mit6_820f15_l05_coqintro)
+{{% resource_link 955bc9a6-c9bc-2f7e-efc1-52b48a529aea "Introduction to Simple Types (PDF)" %}}  
+{{% resource_link 60418b8d-1f9c-b388-56f8-61ce0ccb27a3 "Coq Examples (V)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +85,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hindley-Milner Type Inference and Polymorphic Types (PDF)]({{< baseurl >}}/resources/mit6_820f15_l06)
+{{% resource_link 10f472f1-6fcf-f7bc-eab5-d9b40aa8bfa3 "Hindley-Milner Type Inference and Polymorphic Types (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +94,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Algebraic Data Types & Their Ingredients: Product, Sum, and Recursive Types (PDF)]({{< baseurl >}}/resources/mit6_820f15_l07)
+{{% resource_link 3805b298-8570-1911-f983-fc8299f9d9ac "Algebraic Data Types & Their Ingredients: Product, Sum, and Recursive Types (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +103,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Type Classes and Subtyping (PDF)]({{< baseurl >}}/resources/mit6_820f15_l08)
+{{% resource_link 64d576d7-d140-cb9f-bbd2-3364c2c2b453 "Type Classes and Subtyping (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +118,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Monads (PDF)]({{< baseurl >}}/resources/mit6_820f15_l09)
+{{% resource_link 444a3c5a-4223-2c47-1d93-86191f58fc9f "Monads (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +127,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Typing of Imperative Programs (PDF)]({{< baseurl >}}/resources/mit6_820f15_l10)
+{{% resource_link 174f33f8-8d18-361e-eeac-ec097ed5949c "Typing of Imperative Programs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +136,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Verification of Complex Properties with Types: From Information Flow to Race Detection (PDF)]({{< baseurl >}}/resources/mit6_820f15_l11)
+{{% resource_link 2d50921d-8bda-4429-1b80-32ec4ea806d1 "Verification of Complex Properties with Types: From Information Flow to Race Detection (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +151,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Intro to Axiomatic Semantics (PDF)]({{< baseurl >}}/resources/mit6_820f15_l12)
+{{% resource_link e51a3b46-3ab6-a66d-7718-ae6ae83d3274 "Intro to Axiomatic Semantics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +160,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Verification Condition Generation (PDF)]({{< baseurl >}}/resources/mit6_820f15_l13)
+{{% resource_link 20894e18-9c3d-4349-4d27-eeee1796feb4 "Verification Condition Generation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +169,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Total Correctness and Termination (PDF)]({{< baseurl >}}/resources/mit6_820f15_l14)
+{{% resource_link 2386b9e8-b821-7520-b4d7-2d9524d1f3db "Total Correctness and Termination (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +178,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Separation Logic (PDF)]({{< baseurl >}}/resources/mit6_820f15_l15)
+{{% resource_link 195b8d42-0df1-bcc6-304d-cb3630f02070 "Separation Logic (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +187,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Axiomatic Semantics for Concurrency: Rely-Guarantee & Concurrent Separation Logic (PDF)]({{< baseurl >}}/resources/mit6_820f15_l16)
+{{% resource_link 5209db17-8cb1-c6f0-877d-258b495ad0e0 "Axiomatic Semantics for Concurrency: Rely-Guarantee & Concurrent Separation Logic (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +202,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Dataflow Analysis, Lattices, Fixed Points (PDF)]({{< baseurl >}}/resources/mit6_820f15_l17)
+{{% resource_link 4aae8677-7227-46c9-1c86-46d318e1c5e8 "Dataflow Analysis, Lattices, Fixed Points (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +211,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Abstract Interpretation, Galois Connections (PDF)]({{< baseurl >}}/resources/mit6_820f15_l18)
+{{% resource_link 72a9c918-fccc-b983-3179-27c68e5f25a7 "Abstract Interpretation, Galois Connections (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +220,7 @@ TOPICS
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Abstract Interpretation, Galois Connections (cont.) (PDF)]({{< baseurl >}}/resources/mit6_820f15_l19)
+{{% resource_link 2c35a52b-7d10-dfc4-64de-e38a7b706b59 "Abstract Interpretation, Galois Connections (cont.) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +229,7 @@ TOPICS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[The Heap: Inferring Loop Invariants about Data Structure Shape (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_820f15_l20)
+{{% resource_link 1556895b-d4e7-db4d-556e-8d7ba5a0e690 "The Heap: Inferring Loop Invariants about Data Structure Shape (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +244,7 @@ TOPICS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Intro to Models and Properties (PDF)]({{< baseurl >}}/resources/mit6_820f15_l21)
+{{% resource_link 9c7c01cf-544a-b2bb-6d97-6cae2f99cdcf "Intro to Models and Properties (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +253,7 @@ TOPICS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Temporal Logic (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_820f15_l22)
+{{% resource_link 049a7578-58ea-a484-c96e-3b7d05679858 "Temporal Logic (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +262,7 @@ TOPICS
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Explicit State Model Checking (PDF)]({{< baseurl >}}/resources/mit6_820f15_l23)
+{{% resource_link 47eddc52-273f-8c5e-b019-6dcadf3a4509 "Explicit State Model Checking (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +271,7 @@ TOPICS
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Symbolic Model Checking (PDF)]({{< baseurl >}}/resources/mit6_820f15_l24)
+{{% resource_link 9d27e0c5-4dbb-d685-26a2-d050e8f788d6 "Symbolic Model Checking (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +280,7 @@ TOPICS
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Software Model Checking with Abstraction Refinement (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_820f15_l25)
+{{% resource_link 84939168-905f-be86-24bf-9d703bae9060 "Software Model Checking with Abstraction Refinement (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +289,7 @@ TOPICS
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[From Model Checking to Synthesis (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_820f15_l26)
+{{% resource_link e908e25c-1fcd-e25c-2f1d-0147adbd6a65 "From Model Checking to Synthesis (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
