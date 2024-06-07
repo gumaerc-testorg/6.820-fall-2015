@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of pset2.
 file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/1052ee230fd6648e17f2ebfab6070cbb_ps2CoqCode.zip
+file_size: 4435
 file_type: application/zip
 learning_resource_types:
 - Assignments
