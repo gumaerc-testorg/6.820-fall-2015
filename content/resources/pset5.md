@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of pset5.
 file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/df963fb196fdadf072bc231b557b3c26_pset5.zip
+file_size: 6861
 file_type: application/zip
 learning_resource_types:
 - Assignments
