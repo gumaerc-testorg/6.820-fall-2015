@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of pset4.
 file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/4036574ebade2f528f492363f22c0e53_ps4Code.zip
+file_size: 3389
 file_type: application/zip
 learning_resource_types:
 - Assignments
