@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of pset3.
-file: /ol-ocw-studio-app/courses/6-820-fundamentals-of-program-analysis-fall-2015/4675369e70d4aed9d5798a5762caf2db_ps3Code.zip
+file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/4675369e70d4aed9d5798a5762caf2db_ps3Code.zip
 file_size: 4060
 file_type: application/zip
 learning_resource_types:
