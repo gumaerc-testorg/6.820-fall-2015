@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of pset2.
-file: /ol-ocw-studio-app/courses/6-820-fundamentals-of-program-analysis-fall-2015/536b57699eb8040cd3581c4e352b8b89_ps2Code.zip
+file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/536b57699eb8040cd3581c4e352b8b89_ps2Code.zip
 file_size: 3238
 file_type: application/zip
 learning_resource_types:

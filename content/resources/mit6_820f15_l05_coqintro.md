@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains examples regarding Introduction to Coq.
-file: /ol-ocw-studio-app/courses/6-820-fundamentals-of-program-analysis-fall-2015/60418b8d1f9cb38856f861ce0ccb27a3_MIT6_820F15_L05_CoqIntro.v
+file: /courses/6-820-fundamentals-of-program-analysis-fall-2015/60418b8d1f9cb38856f861ce0ccb27a3_MIT6_820F15_L05_CoqIntro.v
 file_size: 20020
 file_type: application/octet-stream
 learning_resource_types:
