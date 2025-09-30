@@ -46,9 +46,9 @@ Introduction to Functional Programming and Types
 
 Some interesting reading about the genesis of functional programming:
 
-Backus, John. "[Can Programming be Liberated from the Von Neumann Style? A Functional Style and its Algebra of Programs](http://dx.doi.org/10.1145/359576.359579)." _Magazine Communications of the ACM_ 8, no. 21 (1978): 613–41.
+Backus, John. "{{% resource_link "5b337a2a-00fa-4002-83d9-e926ca1b5aae" "Can Programming be Liberated from the Von Neumann Style? A Functional Style and its Algebra of Programs" %}}." _Magazine Communications of the ACM_ 8, no. 21 (1978): 613–41.
 
-Hudak, Hughes, Peyton Jones, et al. ["A History of Haskell: Being Lazy With Class." (PDF)](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/) 2007.
+Hudak, Hughes, Peyton Jones, et al. {{% resource_link "99140b9f-ee32-4a7d-a633-6e81bbad85db" "\"A History of Haskell: Being Lazy With Class.\" (PDF)" %}} 2007.
 
 
 {{< tdclose >}}
@@ -69,7 +69,7 @@ Lambda Calculus
 
 Suggested Reading:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262162098) Pierce, Benjamin C. Chapter 5 in _Types and Programming Languages_. MIT Press, 2002. ISBN: 9780262162098. \[Preview with [Google Books](http://books.google.com/books?id=ti6zoAC9Ph8C&pg=PA51=onepage)\]
+{{% resource_link "9759ea9b-1872-4569-9c70-7c309474703c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pierce, Benjamin C. Chapter 5 in _Types and Programming Languages_. MIT Press, 2002. ISBN: 9780262162098. \[Preview with {{% resource_link "a0437b96-c575-4839-b144-5bdc062b574e" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -124,7 +124,7 @@ Introduction to Simple Types
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262162098) Cardelli's, Luca. "Type Systems." In _Types and Programming Languages_. MIT Press, 2002. ISBN: 9780262162098.
+{{% resource_link "9759ea9b-1872-4569-9c70-7c309474703c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cardelli's, Luca. "Type Systems." In _Types and Programming Languages_. MIT Press, 2002. ISBN: 9780262162098.
 
 
 {{< tdclose >}}
@@ -230,9 +230,9 @@ Verification of Complex Properties with Types: From Information Flow to Race Det
 {{< tdopen >}}
 
 
-Myers, A. C. "[JFlow: Practical Mostly-static Information Flow Control](http://dx.doi.org/10.1145/292540.292561)." _Principles of Programming Languages_ (1999): 228–41.
+Myers, A. C. "{{% resource_link "1045adac-9938-4872-8b2b-ddb3e1a5a498" "JFlow: Practical Mostly-static Information Flow Control" %}}." _Principles of Programming Languages_ (1999): 228–41.
 
-Flanagan, C., and S. N. Freund. "[Type-based Race Detection for Java](http://dx.doi.org/10.1145/358438.349328)." _ACM SIGPLAN Notices_ 35, no. 5 (2000): 219–32.
+Flanagan, C., and S. N. Freund. "{{% resource_link "6e0eb263-6b70-471c-8373-ed245e53592e" "Type-based Race Detection for Java" %}}." _ACM SIGPLAN Notices_ 35, no. 5 (2000): 219–32.
 
 
 {{< tdclose >}}
@@ -257,7 +257,7 @@ Intro to Axiomatic Semantics
 {{< tdopen >}}
 
 
-Floyd, Robert. ["Assigning Meanings to Programs." (PDF)](http://www.eecs.berkeley.edu/~necula/Papers/FloydMeaning.pdf)
+Floyd, Robert. {{% resource_link "873fb211-6e7a-4f57-8172-796bf8cff8ac" "\"Assigning Meanings to Programs.\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -274,7 +274,7 @@ Problem Set 4 Out
 Verification Condition Generation
 {{< tdclose >}}
 {{< tdopen >}}
-Hoare. "[An Axiomatic Basis for Computer Programming](http://dx.doi.org/10.1145/363235.363259)." _Communications of the ACM_ 12, no. 10 (1969): 576–80.
+Hoare. "{{% resource_link "8b941cff-99be-44f5-b06f-126fb8428e46" "An Axiomatic Basis for Computer Programming" %}}." _Communications of the ACM_ 12, no. 10 (1969): 576–80.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 3 due
@@ -340,7 +340,7 @@ Axiomatic Semantics for Concurrency: Rely-Guarantee & Concurrent Separation Logi
 Dataflow Analysis, Lattices, Fixed Points
 {{< tdclose >}}
 {{< tdopen >}}
-Kildall, Gary. "[A Unified Approach to Global Program Optimization](http://dx.doi.org/10.1145/512927.512945)." _Principles of Programming Languages_ (1973): 194–206.
+Kildall, Gary. "{{% resource_link "f6b8cb2a-dbc3-4366-8d23-0d8466fe3530" "A Unified Approach to Global Program Optimization" %}}." _Principles of Programming Languages_ (1973): 194–206.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -361,7 +361,7 @@ Problem Set 5 Out
 Abstract Interpretation, Galois Connections
 {{< tdclose >}}
 {{< tdopen >}}
-Cousot, P., and R. Cousot. "[Abstract Interpretation: A Unified Lattice Model for Static analysis of Programs by Construction or Approximation of Fixpoints](http://dx.doi.org/10.1145/512950.512973)." _Principles of Programming Languages_ (1977): 238–52.
+Cousot, P., and R. Cousot. "{{% resource_link "54b6ee3b-47bd-4303-b484-0adf0fb75aa3" "Abstract Interpretation: A Unified Lattice Model for Static analysis of Programs by Construction or Approximation of Fixpoints" %}}." _Principles of Programming Languages_ (1977): 238–52.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -393,7 +393,7 @@ The Heap: Inferring Loop Invariants About Data Structure Shape
 {{< tdopen >}}
 
 
-Sagiv, Reps, et al. "[Solving Shape-Analysis Problems in Languages with Destructive Updating](http://dx.doi.org/10.1145/271510.271517)." _Principles of Programming Languages_ 20, no. 1 (1993): 1–50.
+Sagiv, Reps, et al. "{{% resource_link "2db946ff-ce17-42f4-a863-17e9637889b0" "Solving Shape-Analysis Problems in Languages with Destructive Updating" %}}." _Principles of Programming Languages_ 20, no. 1 (1993): 1–50.
 
 
 {{< tdclose >}}
@@ -478,9 +478,9 @@ Software Model Checking with Abstraction Refinement
 {{< tdopen >}}
 
 
-Henzinger, T. A., R. Jhala, et al. "[Lazy Abstraction](http://dx.doi.org/10.1145/565816.503279)." _Principles of Programming Languages ACM_ 37, no. 1 (2002): 58–70.
+Henzinger, T. A., R. Jhala, et al. "{{% resource_link "bad85aba-153a-4fc8-8b4c-193b63d0f8fa" "Lazy Abstraction" %}}." _Principles of Programming Languages ACM_ 37, no. 1 (2002): 58–70.
 
-Ball, T., R. Majumdar, et al. "[Automatic Predicate Abstraction of C Programs](http://web.cs.ucla.edu/~todd/research/pldi01.pdf)." _ACM SIGPLAN Notices_ 36, no. 5 (2001): 203–13.
+Ball, T., R. Majumdar, et al. "{{% resource_link "28d2b217-ea70-4c30-bc5f-fae0a278cfa1" "Automatic Predicate Abstraction of C Programs" %}}." _ACM SIGPLAN Notices_ 36, no. 5 (2001): 203–13.
 
 
 {{< tdclose >}}
