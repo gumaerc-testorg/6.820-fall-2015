@@ -28,21 +28,21 @@ This course offers a comprehensive introduction to the field of program analysis
 Textbooks
 ---------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262162098) Pierce, Benjamin C. _Types and Programming Languages_. MIT Press, 2002. ISBN: 9780262162098. \[Preview with [Google Books](http://books.google.com/books?id=ti6zoAC9Ph8C&pg=PAfrontcover)\]
+{{% resource_link "9759ea9b-1872-4569-9c70-7c309474703c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pierce, Benjamin C. _Types and Programming Languages_. MIT Press, 2002. ISBN: 9780262162098. \[Preview with {{% resource_link "ef2bea08-c101-4e47-96b3-cc09eb77a68d" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262731034) Winskel, Glynn. _The Formal Semantics of Programming Languages: An Introduction_. MIT Press, 1993. ISBN: 9780262731034. \[Preview with [Google Books](http://books.google.com/books?id=JzUNn6uUxm0C&pg=PAfrontcover)\]
+{{% resource_link "33bc2ff5-31f2-4646-9cd0-a55dddc7da00" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Winskel, Glynn. _The Formal Semantics of Programming Languages: An Introduction_. MIT Press, 1993. ISBN: 9780262731034. \[Preview with {{% resource_link "9f383411-b0a3-42f7-8473-c4ac94eb601d" "Google Books" %}}\]
 
 Nielson, Nielson, and Hankin. _Principles of Program Analysis_. Springer, 2010. ISBN: 9783642084744.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262026499) Baier, and Katoen. _Principles of Model Checking_. MIT Press, 2008. ISBN: 9780262026499.
+{{% resource_link "860ed0f1-15c1-466f-a16d-ce24a0455a58" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Baier, and Katoen. _Principles of Model Checking_. MIT Press, 2008. ISBN: 9780262026499.
 
-This course used the [Coq Proof Assistant Software](https://coq.inria.fr/) for some assignments. Students aren't expected to become experts on Coq, but here are some Coq resources anyway:
+This course used the {{% resource_link "29085271-fcf8-4ded-9be9-bce30c4c0560" "Coq Proof Assistant Software" %}} for some assignments. Students aren't expected to become experts on Coq, but here are some Coq resources anyway:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262026659) Chlipala, Adam. _Certified Programming with Dependent Types: A Pragmatic Introduction to the Coq Proof Assistant_. MIT Press, 2013. ISBN: 9780262026659. \[Preview with [Google Books](http://books.google.com/books?id=8msTAgAAQBAJ&pg=PAfrontcover)\] (not yet available in print, but a draft is available [Online](http://adam.chlipala.net/cpdt/))
+{{% resource_link "6b7744e4-ffbb-411a-b991-fadae192f6f8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Chlipala, Adam. _Certified Programming with Dependent Types: A Pragmatic Introduction to the Coq Proof Assistant_. MIT Press, 2013. ISBN: 9780262026659. \[Preview with {{% resource_link "9ea64a66-faca-493e-a5a5-a4e7701aff54" "Google Books" %}}\] (not yet available in print, but a draft is available {{% resource_link "5632a8f6-c771-427b-9d33-e8383b27dc30" "Online" %}})
 
-Pierce, Benjamin C., et al. [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html).
+Pierce, Benjamin C., et al. {{% resource_link "7a26adc6-a98f-4ab4-90d3-dfa684f3dcde" "Software Foundations" %}}.
 
-Bertot, Yves, and Pierre Castéran. _Interactive Theorem Proving and Program Development: Coq'Art: The Calculus of Inductive Constructions_. Springer, 2004. ISBN: 9783540208549. \[Preview with [Google Books](http://books.google.com/books?id=m5w5PRj5Nj4C&pg=PAfrontcover)\]
+Bertot, Yves, and Pierre Castéran. _Interactive Theorem Proving and Program Development: Coq'Art: The Calculus of Inductive Constructions_. Springer, 2004. ISBN: 9783540208549. \[Preview with {{% resource_link "0e33270b-c3d0-4a3c-b5e8-1ea2bee29650" "Google Books" %}}\]
 
 Topics
 ------
